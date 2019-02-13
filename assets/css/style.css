@@ -1,0 +1,106 @@
+body{
+  background-color: #ffffff;
+  margin-top: 6em;
+  font-family: Cabin;
+}
+
+
+.titulo{
+  font-family: Lobster;
+  height: 46px;
+  font-weight: 400;
+}
+
+.nav-link{
+  font-family: Cabin;
+  font-weight: 400;
+}
+
+.texto{
+  font-weight: 700;
+  height: 201px;
+  font-family: Cabin;
+}
+
+.container{
+  color: #373a3C;
+}
+
+hr{
+  border-top: 2px solid #000000;
+}
+.tiempo{
+  color: #373a3C;
+  font-weight: 700;
+  font-family: Cabin;
+  height: 20px;
+  margin-bottom: 1em;
+
+}
+.boton{
+  border: 1px solid #dddddd;
+}
+
+.carousel-indicators {
+  bottom: -50px;
+
+}
+.carousel-indicators li {
+  width: 13.1px;
+  height: 13.1px;
+  background-color: #373A3C;
+  border-radius: 50%;
+}
+
+.ingredientes{
+  font-weight: 400;
+  color: #373A3C;
+  font-size: 25px;
+}
+.recetas{
+  height: 20px;
+  color: #373A3C;
+  margin-top: 1em;
+  margin-bottom: 3em;
+  font-family: Cabin;
+  font-weight: 700;
+}
+
+.textotitulo{
+  font-weight: 700;
+  color: #373A3C;
+}
+
+.newsletter{
+background: #dc3545;
+
+}
+
+.cambio{
+  font-family: Lobster;
+  font-weight: 400;
+  height: 60px;
+}
+.letras{
+  font-size: 20px;
+}
+
+.boton1{
+  border: 1px solid #dddddd;
+  font-family: Cabin;
+  font-weight: 400;
+}
+
+.footer{
+  font-family: Lobster;
+  height: 5em;
+  color: #FFFFFF;
+  background: #373A3C;
+  padding-top: 1em;
+
+}
+
+.textofinal{
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
